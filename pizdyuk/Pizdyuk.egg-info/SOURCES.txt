@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+pizdyuk/Pizdyuk.egg-info/PKG-INFO
+pizdyuk/Pizdyuk.egg-info/SOURCES.txt
+pizdyuk/Pizdyuk.egg-info/dependency_links.txt
+pizdyuk/Pizdyuk.egg-info/top_level.txt
+pizdyuk/market/__init__.py
+pizdyuk/market/core.py
+pizdyuk/market/portfolio.py
+pizdyuk/market/stock.py
+pizdyuk/market/stock_manager.py
+pizdyuk/market/trader.py
+pizdyuk/market/user.py
+pizdyuk/market/user_manager.py
